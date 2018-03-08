@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /excel-fu/
+Disallow: /getting-started-with-hpc/

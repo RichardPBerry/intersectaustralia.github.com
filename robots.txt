@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /excel-fu/
-Disallow: /getting-started-with-hpc/
+Disallow: /training
 Disallow: /intersect-training-theme/
